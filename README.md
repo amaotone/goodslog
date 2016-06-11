@@ -1,21 +1,42 @@
-# goodslog
+# Goods Log
 
-## Gadget
+**Gadgets**
 - MacBook Pro (Retina, 13-inch)
 - BenQ multi media monitor
+- Brother raser printer
 - iPhone 6
 - iPad Air
 - Kindle Paperwhite
 - PlayStation 3
+- Nintendo 3DS
+- BEATS Solo2 headphone
 
-## Bag
-- OUTDOOR
+**Furnitures**
+- 足付きマットレス (無印良品)
+- 布団
+- 冷蔵庫
+- オーブンレンジ
+- 洗濯機
+- 掃除機
+- 本棚×2
+- 折りたたみテーブル×2 (山善)
 
-## Furniture
+**Training**
+- ヨガマット
+- 腹筋ローラー
+- プッシュアップバー
 
-## Misc
+**Kitchen**
+- 6点セット (ティファール)
+- 包丁 (GLOBAL, 18cm)
+- 軽量スプーン
+- まな板
+- 計量カップ
 
-## Web Service
-- lolipop server
-- muumuu domain
+**Misc**
+- リュックサック (OUTDOOR)
+
+**Web Service**
+- ロリポップサーバー (ヘテムル)
+- ムームードメイン
 - Money Forward
