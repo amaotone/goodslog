@@ -1,6 +1,6 @@
-# Goods Log
+# monolog
 
-**Gadgets**
+**Gadget**
 - MacBook Pro (Retina, 13-inch)
 - BenQ multi media monitor
 - Brother raser printer
@@ -9,19 +9,21 @@
 - Kindle Paperwhite
 - PlayStation 3
 - Nintendo 3DS
-- BEATS Solo2 headphone
 
-**Furnitures**
+**Furniture**
 - 足付きマットレス (無印良品)
 - 布団
 - 冷蔵庫
 - オーブンレンジ
 - 洗濯機
-- 掃除機
+- スティック型掃除機
 - カラーボックス×2
 - 折りたたみテーブル×2 (山善)
 - パソコンデスク (山善, W120xD45)
-- イームズチェア リプロダクト
+- イームズチェア (リプロダクト)
+- ラグ
+- 折りたたみこたつ (山善)
+- こたつ布団 (西川)
 
 **Training**
 - ヨガマット
@@ -37,8 +39,10 @@
 
 **Misc**
 - リュックサック (OUTDOOR)
+- ショルダーバッグ
 
 **Web Service**
-- ロリポップサーバー (ヘテムル)
+- ロリポップサーバー (スタンダード)
 - ムームードメイン
 - Money Forward
+- Apple Music
