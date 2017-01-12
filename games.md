@@ -1,10 +1,12 @@
 # Games
 
 **Playstation 3**
-- 閃の軌跡(I, II)
+- 閃の軌跡 (I, II)
 - Final Fantasy (X, XIII)
-- Dark Souls (1, 2)
+- Dark Souls (I, II)
+- SACRED (2, 3)
 - Demon's Souls
+- DIABLO III
 
 **Nintendo 3DS**
 - ポケットモンスター (Y, アルファサファイア)
@@ -19,3 +21,4 @@
 - ジャングルスピード
 - 犯人は踊る
 - ボーナンザ
+- レジスタンス アヴァロン
