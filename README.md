@@ -42,7 +42,10 @@
 - ショルダーバッグ
 
 **Web Service**
-- ロリポップサーバー (スタンダード)
+- ロリポップサーバー (スタンダードプラン: \6480/year)
 - ムームードメイン
-- Money Forward
-- Apple Music
+  - sakueji.com (\1382/year)
+  - amalog.net (\1382/year)
+  - amaotone.net (\430/year)
+  - studentsquare.jp (\3067/year)
+- Apple Music (学生プラン: \480/month)
